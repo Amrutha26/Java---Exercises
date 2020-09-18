@@ -15,6 +15,6 @@ public class Main {
 }
 
 /*
-Difference between println and print:
+Difference of println and print:
 Println adds a newline whereas the cursor stays at the same position in print.
  */
